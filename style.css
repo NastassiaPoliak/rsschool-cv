@@ -1,1 +1,7 @@
-1111
+p, h1, h2, li {
+    text-align:center
+}
+
+.border-dashed {
+    border: 2px dashed blueviolet;
+}
